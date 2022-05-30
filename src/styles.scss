@@ -18,11 +18,8 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;}
 
 
 .mat-typography.mat-app-background{
-  //background: #3F51B5;
-  background-image: url("./assets/img/sfondo.png");
-  //background-repeat: no-repeat;
-  background-size: cover;
-  //overflow-x: hidden;
+   background-color: rgba(7, 5, 105, 0.553)
+
 }
 
 /* Importing Bootstrap SCSS file. */
